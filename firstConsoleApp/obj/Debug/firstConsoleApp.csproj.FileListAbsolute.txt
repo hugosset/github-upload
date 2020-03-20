@@ -1,0 +1,7 @@
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\bin\Debug\firstConsoleApp.exe.config
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\bin\Debug\firstConsoleApp.exe
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\bin\Debug\firstConsoleApp.pdb
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\obj\Debug\firstConsoleApp.csprojResolveAssemblyReference.cache
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\obj\Debug\firstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\obj\Debug\firstConsoleApp.exe
+E:\Users\hugosset\source\repos\firstConsoleApp\firstConsoleApp\obj\Debug\firstConsoleApp.pdb
